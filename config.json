@@ -1,0 +1,5 @@
+{
+  "linkCheckIP": "http://ip-api.com/json",
+  "linkBundle": "https://release.nohunews.com/",
+  "isUpdate": true
+}
